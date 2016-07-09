@@ -49,6 +49,12 @@ margin-top: 10px;
     margin-top: 8px;
 }
 #main-nav ul{}
-#main-nav ul li{}
-#main-nav ul li a{}
-#main-nav ul li a:hover{}
+#main-nav ul li{    float: right;
+    padding: 25px;
+    margin-top: -19px;}
+#main-nav ul li a{
+    color: #f6e4e7;
+    font-size: 24px;}
+#main-nav ul li a:hover{background: #fe7d94;
+    color: #fff;
+    padding: 14px 24px 16px 19px;}
