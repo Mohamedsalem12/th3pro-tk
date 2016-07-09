@@ -1,0 +1,54 @@
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     @Pro-tk
+Designer: @Mohamed Salem
+Url:      https://www.facebook.com/massi.vpc.3 
+----------------------------------------------- */
+/*-------body-------*/
+body{
+    background: rgba(246, 246, 246, 0.6);
+    overflow: hidden;
+}
+/*-------header-----*/
+#header-pro-tk{
+margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    width: 86%;
+    height: 142px;
+    border: 1px solid #fff;
+    border-bottom: 10px solid rgb(254, 125, 148);
+    border-radius: 0 0 10px 10px;
+}
+/*logo*/
+#logo{}
+/*------top-nav----*/
+#topnav-pro-tk{
+    width: 85%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #3fddc3;
+    border: 6px solid #fff;
+    margin-top: 7px;
+}
+#topnav-pro-tk ul{}
+#topnav-pro-tk ul li{}
+#topnav-pro-tk ul li a{}
+#topnav-pro-tk ul li a:hover{}
+/*------main-nav-----*/
+#main-nav{
+    width: 85%;
+    height: 56px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #3fddc3;
+    border: 6px solid #fff;
+    margin-top: 8px;
+}
+#main-nav ul{}
+#main-nav ul li{}
+#main-nav ul li a{}
+#main-nav ul li a:hover{}
